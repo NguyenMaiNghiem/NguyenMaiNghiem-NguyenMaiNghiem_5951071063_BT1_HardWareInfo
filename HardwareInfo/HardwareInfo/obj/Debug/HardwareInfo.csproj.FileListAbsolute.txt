@@ -1,0 +1,14 @@
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe.config
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.pdb
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.Design.dll
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.dll
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.Fonts.dll
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csprojAssemblyReference.cache
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.Form1.resources
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.Properties.Resources.resources
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.GenerateResource.cache
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.CoreCompileInputs.cache
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.CopyComplete
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.exe
+D:\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.pdb
